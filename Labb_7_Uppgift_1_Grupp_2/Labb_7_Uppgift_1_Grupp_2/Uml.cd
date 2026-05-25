@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Labb_7_Uppgift_1_Grupp_2.TreeNode">
+    <Position X="7.5" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAiAAAAAAAAAAAEAAAAAAQAAAAAAAAAAYAAAAAAAAA=</HashCode>
+      <FileName>TreeNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb_7_Uppgift_1_Grupp_2.Program">
+    <Position X="4.75" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAABAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

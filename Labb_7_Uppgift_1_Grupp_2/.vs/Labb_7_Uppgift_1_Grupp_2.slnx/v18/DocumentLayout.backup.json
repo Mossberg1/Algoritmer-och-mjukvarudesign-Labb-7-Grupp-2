@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\willi\\OneDrive - H\u00F6gskolan Dalarna\\algoritmer\\labb_7_grupp_2\\Labb_7_Uppgift_1_Grupp_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{483A00B7-D084-F78B-BD50-314FA85BD49E}|Labb_7_Uppgift_1_Grupp_2\\Labb_7_Uppgift_1_Grupp_2.csproj|c:\\users\\willi\\onedrive - h\u00F6gskolan dalarna\\algoritmer\\labb_7_grupp_2\\labb_7_uppgift_1_grupp_2\\labb_7_uppgift_1_grupp_2\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483A00B7-D084-F78B-BD50-314FA85BD49E}|Labb_7_Uppgift_1_Grupp_2\\Labb_7_Uppgift_1_Grupp_2.csproj|solutionrelative:labb_7_uppgift_1_grupp_2\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483A00B7-D084-F78B-BD50-314FA85BD49E}|Labb_7_Uppgift_1_Grupp_2\\Labb_7_Uppgift_1_Grupp_2.csproj|c:\\users\\willi\\onedrive - h\u00F6gskolan dalarna\\algoritmer\\labb_7_grupp_2\\labb_7_uppgift_1_grupp_2\\labb_7_uppgift_1_grupp_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483A00B7-D084-F78B-BD50-314FA85BD49E}|Labb_7_Uppgift_1_Grupp_2\\Labb_7_Uppgift_1_Grupp_2.csproj|solutionrelative:labb_7_uppgift_1_grupp_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 241,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TreeNode.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\OneDrive - H\u00F6gskolan Dalarna\\algoritmer\\labb_7_grupp_2\\Labb_7_Uppgift_1_Grupp_2\\Labb_7_Uppgift_1_Grupp_2\\TreeNode.cs",
+              "RelativeDocumentMoniker": "Labb_7_Uppgift_1_Grupp_2\\TreeNode.cs",
+              "ToolTip": "C:\\Users\\willi\\OneDrive - H\u00F6gskolan Dalarna\\algoritmer\\labb_7_grupp_2\\Labb_7_Uppgift_1_Grupp_2\\Labb_7_Uppgift_1_Grupp_2\\TreeNode.cs",
+              "RelativeToolTip": "Labb_7_Uppgift_1_Grupp_2\\TreeNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T08:04:31.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\OneDrive - H\u00F6gskolan Dalarna\\algoritmer\\labb_7_grupp_2\\Labb_7_Uppgift_1_Grupp_2\\Labb_7_Uppgift_1_Grupp_2\\Program.cs",
+              "RelativeDocumentMoniker": "Labb_7_Uppgift_1_Grupp_2\\Program.cs",
+              "ToolTip": "C:\\Users\\willi\\OneDrive - H\u00F6gskolan Dalarna\\algoritmer\\labb_7_grupp_2\\Labb_7_Uppgift_1_Grupp_2\\Labb_7_Uppgift_1_Grupp_2\\Program.cs",
+              "RelativeToolTip": "Labb_7_Uppgift_1_Grupp_2\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAywEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T08:04:11.678Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

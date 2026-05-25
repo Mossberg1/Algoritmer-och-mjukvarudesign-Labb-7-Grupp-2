@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Labb_7_Uppgift_3_Grupp_2.Program">
+    <Position X="6" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAgAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb_7_Uppgift_3_Grupp_2.DecisionNode">
+    <Position X="9" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAEAAAAAAAAACgAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>DecisionNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Labb_7_Uppgift_3_Grupp_2.Answer">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Answer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
