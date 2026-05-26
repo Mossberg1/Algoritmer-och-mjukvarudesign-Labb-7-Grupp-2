@@ -12,3 +12,4 @@ C:\Users\willi\OneDrive - Högskolan Dalarna\algoritmer\labb_7_grupp_2\Labb_7_Up
 C:\Users\willi\OneDrive - Högskolan Dalarna\algoritmer\labb_7_grupp_2\Labb_7_Uppgift_2_Grupp_2\Labb_7_Uppgift_2_Grupp_2\obj\Debug\net10.0\Labb_7_Uppgift_2_Grupp_2.pdb
 C:\Users\willi\OneDrive - Högskolan Dalarna\algoritmer\labb_7_grupp_2\Labb_7_Uppgift_2_Grupp_2\Labb_7_Uppgift_2_Grupp_2\obj\Debug\net10.0\Labb_7_Uppgift_2_Grupp_2.genruntimeconfig.cache
 C:\Users\willi\OneDrive - Högskolan Dalarna\algoritmer\labb_7_grupp_2\Labb_7_Uppgift_2_Grupp_2\Labb_7_Uppgift_2_Grupp_2\obj\Debug\net10.0\ref\Labb_7_Uppgift_2_Grupp_2.dll
+C:\Users\willi\OneDrive - Högskolan Dalarna\algoritmer\labb_7_grupp_2\Labb_7_Uppgift_2_Grupp_2\Labb_7_Uppgift_2_Grupp_2\obj\Debug\net10.0\Labb_7_Uppgift_2_Grupp_2.sourcelink.json

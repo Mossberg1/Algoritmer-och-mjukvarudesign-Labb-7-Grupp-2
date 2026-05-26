@@ -49,6 +49,11 @@ namespace Labb_7_Uppgift_2_Grupp_2
                 return newNode;
             }
 
+            if (newNode.Time.CompareTo(node.Time) == 0)
+            {
+                throw new InvalidOperationException("Två tidsbokningar kan inte ha samma tid.");
+            }
+
             if (newNode.Time.CompareTo(node.Time) < 0)
             {
                 if (node.Left == null)
