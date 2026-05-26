@@ -54,7 +54,7 @@
 
             var answer = "";
 
-            while (answer != "j" && answer != "n")
+            while (answer != "j" && answer != "n") // Vänta på ett svar så länge svaret är ogiltigt.
             {
                 Console.Write($"{node} (j/n): ");
                 answer = Console.ReadLine()?.ToLower().Trim() ?? string.Empty;
@@ -65,9 +65,9 @@
 
         static DecisionNode AskQuestions(DecisionNode node) 
         {
-            while (node.Yes != null && node.No != null)
+            while (node.Yes != null && node.No != null) // Fortsätt ställ frågor så länge det finns frågor kvar
             {
-                if (node.IsQuestion)
+                if (node.IsQuestion) // Om noden är en fråga, ställ den.
                 {
                     var answer = GetAnswer(node);
                     if (answer == Answer.Yes)

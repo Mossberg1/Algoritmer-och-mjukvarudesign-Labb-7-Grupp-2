@@ -55,11 +55,13 @@
         {
             Console.WriteLine(new string('-', 2 * level) + node);
 
+            // Gå igenom barn
             if (node.FirstChild != null)
             {
                 PreOrder(node.FirstChild, level + 1);
             }
 
+            // Gå igenom syskon
             if (node.NextSibling != null)
             {
                 PreOrder(node.NextSibling, level);

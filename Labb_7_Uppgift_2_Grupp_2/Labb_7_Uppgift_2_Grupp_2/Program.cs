@@ -49,29 +49,30 @@ namespace Labb_7_Uppgift_2_Grupp_2
                 return newNode;
             }
 
+            // Hantera dubbelbokningar
             if (newNode.Time.CompareTo(node.Time) == 0)
             {
                 throw new InvalidOperationException("Två tidsbokningar kan inte ha samma tid.");
             }
 
-            if (newNode.Time.CompareTo(node.Time) < 0)
+            if (newNode.Time.CompareTo(node.Time) < 0) // Om tiden är tidigare, gå till vänster
             {
-                if (node.Left == null)
+                if (node.Left == null) // Om platsen är ledig ta den.
                 {
                     node.Left = newNode;
                 }
-                else
+                else // Annars leta vidare åt vänster
                 {
                     Insert(node.Left, time, patientName);
                 }
             }
-            else
+            else // Annars är tiden större gå till höger
             {
-                if (node.Right == null)
+                if (node.Right == null) // Om platsen är ledig ta den.
                 {
                     node.Right = newNode;
                 }
-                else
+                else // Annars fortsätt leta åt höger.
                 {
                     Insert(node.Right, time, patientName);
                 }
@@ -82,14 +83,14 @@ namespace Labb_7_Uppgift_2_Grupp_2
 
         static void TraverseInOrder(BookingNode node) 
         {
-            if (node.Left != null)
+            if (node.Left != null) // Gå igenom trädet åt vänster
             {
                 TraverseInOrder(node.Left);
             }
 
             Console.WriteLine(node);
 
-            if (node.Right != null)
+            if (node.Right != null) // Gå igenom trädet åt höger
             {
                 TraverseInOrder(node.Right);
             }
